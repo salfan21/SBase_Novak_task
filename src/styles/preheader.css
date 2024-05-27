@@ -1,0 +1,47 @@
+.shop_preheader {
+  margin-top: 20px;
+  padding: 0px 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 30px;
+}
+.shop_preheader_half2 {
+  display: flex;
+}
+.shop_preheader_half2_item1, .shop_preheader_half2_item2, .shop_preheader_half2_item3, .shop_preheader_half2_item4 {
+  cursor: pointer;
+  margin: 0 10px;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #4e566a;
+}
+.shop_preheader_half2_item1 div, .shop_preheader_half2_item2 div, .shop_preheader_half2_item3 div, .shop_preheader_half2_item4 div {
+  border: 1px solid #4e566a;
+}
+.shop_preheader_half2_item1 div {
+  height: 50%;
+}
+.shop_preheader_half2_item2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.shop_preheader_half2_item2 div {
+  height: 100%;
+}
+.shop_preheader_half2_item3 {
+  width: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.shop_preheader_half2_item3 div {
+  height: 100%;
+}
+.shop_preheader_half2_item4 {
+  width: 40px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.shop_preheader_half2_item4 div {
+  height: 100%;
+}/*# sourceMappingURL=preheader.css.map */

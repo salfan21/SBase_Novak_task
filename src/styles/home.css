@@ -1,0 +1,21 @@
+.home {
+  padding: 30px;
+  display: grid;
+  grid-gap: 30px;
+}
+
+.grid1 {
+  grid-template-columns: 1fr;
+}
+
+.grid2 {
+  grid-template-columns: 1fr 1fr;
+}
+
+.grid3 {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.grid4 {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}/*# sourceMappingURL=home.css.map */

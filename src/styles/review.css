@@ -1,0 +1,59 @@
+.review_item {
+  background-color: #ebebeb;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+.review_item_userName {
+  font-size: 1.2em;
+  margin-bottom: 5px;
+}
+.review_item_text {
+  text-indent: 20px;
+}
+.review_item_btn {
+  border: 1px solid black;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.review {
+  padding: 10px 30px;
+}
+.review h4 {
+  margin-bottom: 10px;
+  text-indent: 1.5em;
+}
+.review_userName {
+  margin-bottom: 20px;
+}
+.review_title {
+  text-indent: 1.5em;
+  margin-bottom: 10px;
+}
+.review_text {
+  text-indent: 1.5em;
+  line-height: 1.3em;
+  margin-bottom: 20px;
+}
+.review_comments {
+  padding: 20px;
+  background-color: #ebebeb;
+  border-radius: 10px;
+}
+.review_comments_item {
+  background-color: #dfdede;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.review_comments_item_userName {
+  margin-bottom: 10px;
+}
+.review_comments_item_text {
+  text-indent: 1.5em;
+  line-height: 1.5em;
+}/*# sourceMappingURL=review.css.map */

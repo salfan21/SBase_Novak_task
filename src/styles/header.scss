@@ -1,0 +1,28 @@
+.header{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    padding: 0 50px;
+    justify-content: space-between;
+    align-items: center;
+    .acc{
+            display: flex;
+            flex-direction: row;
+            height: inherit;
+            align-items: center;
+            h5{
+                max-height: 100px;
+                margin: 0 20px;
+                span{
+                    cursor: pointer;
+                    font-size: 1.2em;
+                }
+            }
+        }
+    .logo{
+        width: 75px;
+        height: 75px;
+        border-radius: 50%;
+        background-color: black;
+    }
+}

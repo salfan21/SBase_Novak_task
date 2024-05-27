@@ -1,0 +1,77 @@
+.review_item{
+    background-color: #ebebeb;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    &_userName{
+        font-size: 1.2em;
+        margin-bottom: 5px;
+    }
+    &_text{
+        text-indent: 20px;
+    }
+    &_btn{
+        border: 1px solid black;
+        padding: 5px;
+        margin: 5px;
+        border-radius: 5px;
+        display: inline-block;
+        cursor:pointer;
+    }
+}
+
+.review{
+    h4{
+        margin-bottom: 10px;
+        text-indent: 1.5em;
+    }
+    padding: 10px 30px;
+    &_userName{
+        margin-bottom: 20px;
+    }
+    &_title{
+        text-indent: 1.5em;
+        margin-bottom: 10px;
+    }
+    &_text{
+        text-indent: 1.5em;
+        line-height: 1.3em;
+        margin-bottom: 20px;
+    }
+    &_comments{
+        padding: 20px;
+        background-color: #ebebeb;
+        border-radius: 10px;
+        &_item{
+            background-color: #dfdede;
+            border-radius: 10px;
+            margin-bottom: 10px;
+            padding: 10px;
+            &_userName{
+                margin-bottom: 10px;
+            }
+            &_text{
+                text-indent: 1.5em;
+                line-height: 1.5em;
+            }
+        }
+    }
+    &_add_comment{
+        padding: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        input{width: 70%;height: 2em;}
+            &_btn{
+            span{
+                cursor: pointer;
+                display: inline-block;
+                background-color: #dfdede;
+                padding: 10px;
+                border: 1px solid black;
+                border-radius: 5px;
+            }
+        }
+    }
+}

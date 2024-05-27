@@ -1,0 +1,44 @@
+.singIn {
+  min-height: calc(100vh - 244px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.singIn_box {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+  height: 400px;
+  border-radius: 10px;
+  border-top-left-radius: 0;
+  background-color: #ebebeb;
+}
+.singIn_box h4:first-child {
+  margin-top: 10px;
+}
+.singIn_box input {
+  height: 1.5em;
+  width: 250px;
+  margin: 20px 0;
+}
+.singIn_box_btn {
+  background-color: #dfdede;
+  margin-top: 20px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.singIn_box_abs {
+  position: absolute;
+  background-color: #ebebeb;
+  padding: 10px;
+  border-radius: 10px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  top: -35px;
+  left: 0;
+}/*# sourceMappingURL=singIn.css.map */

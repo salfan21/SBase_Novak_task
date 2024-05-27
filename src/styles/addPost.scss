@@ -1,0 +1,34 @@
+.addPost{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: inherit;
+    input,div,textarea{
+        display: block;
+        margin-bottom: 20px;
+        width: 50%;
+        padding: 5px;
+    }
+    input{
+        height: 2em;
+        font-size: 1em;
+    }
+    textarea{
+        height: 20em;
+        font-size: 1em;
+    }
+    h5{margin-bottom: 10px;}
+    &_btn{
+        margin: 20px;
+        text-align: right;
+        span{
+            cursor: pointer;
+            display: inline-block;
+            background-color: #dfdede;
+            padding: 10px;
+            border: 1px solid black;
+            border-radius: 5px;
+        }
+    }
+}
