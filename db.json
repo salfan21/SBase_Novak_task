@@ -16,36 +16,6 @@
           "author": "Alice",
           "authorID": "2",
           "text": "21Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe praesentium iusto laudantium sunt perspiciatis nobis quidem vel dolorum atque eveniet iure quam totam, laborum illo est voluptatibus animi ipsa rem."
-        },
-        {
-          "author": "Alex",
-          "authorID": "1",
-          "text": "comment 1"
-        },
-        {
-          "author": "huizalupa",
-          "authorID": "ZDiZUO8",
-          "text": "sdadasd"
-        },
-        {
-          "author": "huizalupa",
-          "authorID": "ZDiZUO8",
-          "text": "asdasdsad"
-        },
-        {
-          "author": "huizalupa",
-          "authorID": "ZDiZUO8",
-          "text": "1232131231231321312123"
-        },
-        {
-          "author": "huizalupa",
-          "authorID": "ZDiZUO8",
-          "text": "123123123"
-        },
-        {
-          "author": "huizalupa",
-          "authorID": "ZDiZUO8",
-          "text": "sad"
         }
       ]
     },
@@ -91,53 +61,8 @@
       "author": "huizalupa",
       "authorID": "ZDiZUO8",
       "comments": [
-        {
-          "author": "huizalupa",
-          "authorID": "ZDiZUO8",
-          "text": "123123"
-        },
-        {
-          "author": "huizalupa",
-          "authorID": "ZDiZUO8",
-          "text": "14342342343333333"
-        },
-        {
-          "author": "huizalupa",
-          "authorID": "ZDiZUO8",
-          "text": "12321"
-        },
-        {
-          "author": "huizalupa",
-          "authorID": "ZDiZUO8",
-          "text": "123123123123"
-        },
-        {
-          "author": "huizalupa",
-          "authorID": "ZDiZUO8",
-          "text": "123213123"
-        },
-        {
-          "author": "huizalupa",
-          "authorID": "ZDiZUO8",
-          "text": "werfwafqfqwdw"
-        }
+        
       ]
-    },
-    {
-      "id": "8282dc31-2a67-403b-a8f6-dbb052c37dd2",
-      "title": "123",
-      "text": "sad",
-      "author": "huizalupa",
-      "authorID": "ZDiZUO8",
-      "comments": []
-    },
-    {
-      "id": "c25862b7-2645-4403-8865-e6d43c5e4942",
-      "title": "sosi zopu ebaniy",
-      "text": "123123123123",
-      "author": "huizalupa",
-      "authorID": "ZDiZUO8",
-      "comments": []
     }
   ],
   "users": [
@@ -171,19 +96,6 @@
       "mail": "snsashasn635@gmail.com",
       "userPosts": [],
       "id": "qtKwISa"
-    },
-    {
-      "pass": "1231241252421",
-      "login": "huizalupa",
-      "name": "Vladislav Barbir",
-      "mail": "hsfiasfjioasfjio@gmail.com",
-      "userPosts": [
-        "3cb5afd8-2b95-482f-ad82-b0d0102910c3",
-        "8282dc31-2a67-403b-a8f6-dbb052c37dd2",
-        "8282dc31-2a67-403b-a8f6-dbb052c37dd2",
-        "c25862b7-2645-4403-8865-e6d43c5e4942"
-      ],
-      "id": "ZDiZUO8"
     }
   ]
 }
